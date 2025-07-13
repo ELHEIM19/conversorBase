@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OQUENDOMASSRYELHEIMN\\source\\repos\\conversorBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2D1860-FF13-44B3-8662-7472763F8909}|conversorBase\\conversorBase.vbproj|c:\\users\\oquendomassryelheimn\\source\\repos\\conversorbase\\conversorbase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CE2D1860-FF13-44B3-8662-7472763F8909}|conversorBase\\conversorBase.vbproj|solutionrelative:conversorbase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2D1860-FF13-44B3-8662-7472763F8909}|conversorBase\\conversorBase.vbproj|c:\\users\\oquendomassryelheimn\\source\\repos\\conversorbase\\conversorbase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CE2D1860-FF13-44B3-8662-7472763F8909}|conversorBase\\conversorBase.vbproj|solutionrelative:conversorbase\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\OQUENDOMASSRYELHEIMN\\source\\repos\\conversorBase\\conversorBase\\Form1.vb",
+              "RelativeDocumentMoniker": "conversorBase\\Form1.vb",
+              "ToolTip": "C:\\Users\\OQUENDOMASSRYELHEIMN\\source\\repos\\conversorBase\\conversorBase\\Form1.vb",
+              "RelativeToolTip": "conversorBase\\Form1.vb",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-21T18:47:26.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\OQUENDOMASSRYELHEIMN\\source\\repos\\conversorBase\\conversorBase\\Form1.vb",
+              "RelativeDocumentMoniker": "conversorBase\\Form1.vb",
+              "ToolTip": "C:\\Users\\OQUENDOMASSRYELHEIMN\\source\\repos\\conversorBase\\conversorBase\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "conversorBase\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-21T18:45:37.421Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\bin\Debug\net8.0-windows\conversorBase.exe
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\bin\Debug\net8.0-windows\conversorBase.deps.json
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\bin\Debug\net8.0-windows\conversorBase.runtimeconfig.json
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\bin\Debug\net8.0-windows\conversorBase.dll
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\bin\Debug\net8.0-windows\conversorBase.pdb
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\conversorBase.Form1.resources
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\conversorBase.vbproj.GenerateResource.cache
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\conversorBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\conversorBase.AssemblyInfoInputs.cache
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\conversorBase.AssemblyInfo.vb
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\conversorBase.vbproj.CoreCompileInputs.cache
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\conversorBase.dll
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\refint\conversorBase.dll
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\conversorBase.pdb
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\conversorBase.genruntimeconfig.cache
+C:\Users\OQUENDOMASSRYELHEIMN\source\repos\conversorBase\conversorBase\obj\Debug\net8.0-windows\ref\conversorBase.dll
